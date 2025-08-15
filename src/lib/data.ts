@@ -1,12 +1,12 @@
 export const personalInfo = {
   name: "Kalyan Pendyala",
   location: "Florida, USA",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  email: "kp2192387743@gmail.com",
+  github: "https://github.com/kalyan-portfolio",
+  linkedin: "https://www.linkedin.com/in/kalyanpendyala1/",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "Techno-functional Business Analyst and Data Analyst with 8+ years of experience in Data Migration projects, Data Warehouse and DataMart development, and Business Intelligence reporting in Life Sciences and Utilities.",
 };
 
 export const workExperience = [
