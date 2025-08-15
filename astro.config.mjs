@@ -7,5 +7,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  base: '/', // ⚠ This must match your repo name
+  base: '/', // ⚠ Root path for custom domain
 });
