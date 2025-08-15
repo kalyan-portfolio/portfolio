@@ -1,6 +1,6 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
+  name: "Kalyan Pendyala",
+  location: "Florida, USA",
   email: "lorem@ipsum.com",
   github: "https://github.com/loremipsum",
   linkedin: "https://linkedin.com/in/loremipsum",
