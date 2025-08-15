@@ -1,7 +1,11 @@
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
+import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  base: '/portfolio/',  // Must match repo name
   integrations: [react()],
+  vite: {
+    plugins: [tailwindcss()],
+  },
+  base: '/portfolio/', // ⚠ This must match your repo name
 });
