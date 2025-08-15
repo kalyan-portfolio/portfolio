@@ -4,7 +4,7 @@ export const personalInfo = {
   email: "kp2192387743@gmail.com",
   github: "https://github.com/kalyan-portfolio",
   linkedin: "https://www.linkedin.com/in/kalyanpendyala1/",
-  profilePicture: "/portfolio/profile.jpeg",
+  profilePicture: "/profile.jpeg",
   heroDescription:
     "Techno-functional Business Analyst and Data Analyst with 8+ years of experience in Data Migration projects, Data Warehouse and DataMart development, and Business Intelligence reporting in Life Sciences and Utilities.",
 };
