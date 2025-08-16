@@ -103,7 +103,7 @@ export const education = [
 ```ts
 export const skills = {
   technicalSkills: ["TypeScript", "Python"],
-  frontendDevelopment: ["React", "Next.js"],
+  businessAnalysis: ["React", "Next.js"],
   // and more...
 };
 ```
