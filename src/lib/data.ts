@@ -126,7 +126,7 @@ export const projects = [
   },
 ];
 
-export const awards = [ 
+export const awards = [
   {
     name: "Fusce Hack",
     issuer: "Fusce Club",
