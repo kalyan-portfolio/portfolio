@@ -102,7 +102,7 @@ export const education = [
 
 ```ts
 export const skills = {
-  programmingLanguages: ["TypeScript", "Python"],
+  technicalSkills: ["TypeScript", "Python"],
   frontendDevelopment: ["React", "Next.js"],
   // and more...
 };

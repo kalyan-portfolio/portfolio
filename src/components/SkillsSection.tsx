@@ -70,7 +70,7 @@ export default function SkillsSection() {
                 <span className="mr-2 text-xl">💻</span> Programming Languages
               </h3>
               <div className="flex flex-wrap gap-2 justify-center md:justify-start">
-                {skills.programmingLanguages.map((skill, index) => (
+                {skills.technicalSkills.map((skill, index) => (
                   <SkillTag key={skill} skill={skill} index={index} />
                 ))}
               </div>
