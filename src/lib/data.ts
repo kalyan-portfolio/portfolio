@@ -11,64 +11,72 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "Florida Power and Light (Contract via Cognizant)",
+    location: "Florida, USA",
+    position: "IT Business Analyst",
+    period: "Jan 2025 - Present",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+      "Spearheaded end-to-end requirements gathering, stakeholder alignment, and process mapping for CIS-to-SAP migration, ensuring business continuity and regulatory compliance",
+      "Performed advanced data analysis, modeling, and mapping across legacy CIS systems and SAP targets, leveraging SQL and Python to validate, transform, and reconcile datasets within the Enterprise Data Platform",
+      "Designed and documented data warehousing structures and table mappings, enabling scalable ETL workflows, audit-ready migration logic, and seamless integration with SAP modules",
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Merck (Contract via Cognizant)",
+    location: "New Jersey, USA",
+    position: "Business Intelligence Analyst",
+    period: "May 2020 - Dec 2024",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      "Led cross-functional requirements gathering, process documentation, and stakeholder workshops across multiple system retirement and migration initiatives, ensuring alignment with business goals and compliance standards",
+      "Designed and developed interactive Power BI dashboards, custom KPIs, and data models, integrating SQL Server, Excel, and external sources to deliver actionable insights and performance tracking",
+      "Engineered robust ETL workflows and data pipelines using Trino SQL, Apache Airflow, and Informatica IICS to support FDA-mandated reporting, system transitions, and enterprise data warehousing",
     ],
   },
   {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
-    period: "Jun 2018 - Feb 2019",
+    company: "Blue Shield of California (Contract via Cognizant)",
+    location: "California, USA",
+    position: "Business & Data Analyst",
+    period: "Sep 2019 - Mar 2020",
     achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
+      "Acted as the liaison between business stakeholders and the technical team to gather, analyze, and document requirements for the IBM Netezza to Snowflake migration project.",
+      "Conducted source-to-target mapping and GAP analysis to identify and integrate internal and external data sources.",
+    ],
+  },
+  {
+    company: "Qualinsoft",
+    location: "Telangana, India",
+    position: "Data Analyst",
+    period: "Aug 2015 - Jun 2017",
+    achievements: [
+      "Developed SQL for ETL and Performed data validation and testing to ensure the accuracy of datasets, identifying discrepancies and resolving issues.",
+      "Created basic data visualizations and dashboards using Power BI and Excel to present trends, KPIs, and performance metrics for business stakeholders.",
+      "Assisted in data cleaning and transformation by applying filters, joins, and aggregation techniques to prepare structured datasets for reporting and analysis",
     ],
   },
 ];
 
 export const education = [
   {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
-    degree: "BSc Lorem Ipsum",
-    period: "2015 - 2019",
-    achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
-    ],
+    institution: "Purdue University",
+    location: "Indiana, USA",
+    degree: "Master of Science (MS), Computer Information Technology",
+    period: "2017 - 2019",
+  },
+  {
+    institution: "Sreenidhi Institute of Science and Technology",
+    location: "Telangana, India",
+    degree: "BSc Computer Science",
+    period: "2012 - 2017",
   },
 ];
 export const skills = {
-  programmingLanguages: [
-    "LoremLang",
-    "IpsumScript",
-    "DolorLang",
-    "SitLang",
-    "AmetLang",
-    "ConsecteturLang",
+  technicalSkills: [
+    "SQL",
+    "Python",
+    "Power BI",
+    "Data Modeling",
+    "Data Warehousing",
+    "Data Validation and Testing",
   ],
   frontendDevelopment: [
     "LoremJS",
@@ -118,54 +126,12 @@ export const projects = [
   },
 ];
 
-export const awards = [
-  {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
-  },
-  {
-    name: "Dolor Sit Amet Prize",
-    issuer: "Ipsum Foundation",
-    date: "Feb 2021",
-    type: "National",
-    position: "Runner-up",
-  },
-  {
-    name: "Consectetur Hackathon",
-    issuer: "Adipiscing Org",
-    date: "Mar 2022",
-    type: "National",
-    position: "Winner",
-  },
-  {
-    name: "Vestibulum Event",
-    issuer: "Vestibulum College",
-    date: "Apr 2022",
-    type: "National",
-    position: "First Prize",
-  },
-  {
-    name: "Curabitur Hackfest",
-    issuer: "Curabitur Institute",
-    date: "May 2022",
-    type: "National",
-    position: "Second Prize",
-  },
-  {
-    name: "Praesent Hacks",
-    issuer: "Praesent Group",
-    date: "Jun 2022",
-    type: "National",
-    position: "Second Runner-up",
-  },
-  {
-    name: "Fusce Hack",
-    issuer: "Fusce Club",
-    date: "Jul 2022",
-    type: "National",
-    position: "Most Impactful Hack",
-  },
-];
+//export const awards = [ 
+//  {
+//    name: "Fusce Hack",
+//    issuer: "Fusce Club",
+//    date: "Jul 2022",
+//    type: "National",
+//    position: "Most Impactful Hack",
+//  },
+//];
