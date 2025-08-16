@@ -126,12 +126,12 @@ export const projects = [
   },
 ];
 
-//export const awards = [ 
-//  {
-//    name: "Fusce Hack",
-//    issuer: "Fusce Club",
-//    date: "Jul 2022",
-//    type: "National",
-//    position: "Most Impactful Hack",
-//  },
-//];
+export const awards = [ 
+  {
+    name: "Fusce Hack",
+    issuer: "Fusce Club",
+    date: "Jul 2022",
+    type: "National",
+    position: "Most Impactful Hack",
+  },
+];
