@@ -65,7 +65,7 @@ export const education = [
   {
     institution: "Sreenidhi Institute of Science and Technology",
     location: "Telangana, India",
-    degree: "BSc Computer Science",
+    degree: "Bachelor of Technology (B.Tech), Mechanical Engineering",
     period: "2012 - 2017",
   },
 ];
